@@ -1,0 +1,15 @@
+D:\Projects\SimTask1\SimTask1\bin\Debug\netcoreapp3.1\SimTask1.exe
+D:\Projects\SimTask1\SimTask1\bin\Debug\netcoreapp3.1\SimTask1.deps.json
+D:\Projects\SimTask1\SimTask1\bin\Debug\netcoreapp3.1\SimTask1.runtimeconfig.json
+D:\Projects\SimTask1\SimTask1\bin\Debug\netcoreapp3.1\SimTask1.runtimeconfig.dev.json
+D:\Projects\SimTask1\SimTask1\bin\Debug\netcoreapp3.1\SimTask1.dll
+D:\Projects\SimTask1\SimTask1\bin\Debug\netcoreapp3.1\SimTask1.pdb
+D:\Projects\SimTask1\SimTask1\obj\Debug\netcoreapp3.1\SimTask1.csprojAssemblyReference.cache
+D:\Projects\SimTask1\SimTask1\obj\Debug\netcoreapp3.1\SimTask1.Form1.resources
+D:\Projects\SimTask1\SimTask1\obj\Debug\netcoreapp3.1\SimTask1.csproj.GenerateResource.cache
+D:\Projects\SimTask1\SimTask1\obj\Debug\netcoreapp3.1\SimTask1.AssemblyInfoInputs.cache
+D:\Projects\SimTask1\SimTask1\obj\Debug\netcoreapp3.1\SimTask1.AssemblyInfo.cs
+D:\Projects\SimTask1\SimTask1\obj\Debug\netcoreapp3.1\SimTask1.csproj.CoreCompileInputs.cache
+D:\Projects\SimTask1\SimTask1\obj\Debug\netcoreapp3.1\SimTask1.dll
+D:\Projects\SimTask1\SimTask1\obj\Debug\netcoreapp3.1\SimTask1.pdb
+D:\Projects\SimTask1\SimTask1\obj\Debug\netcoreapp3.1\SimTask1.genruntimeconfig.cache
